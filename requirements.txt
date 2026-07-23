@@ -1,0 +1,11 @@
+google-genai
+gspread
+google-auth
+beautifulsoup4
+playwright
+ddgs
+cairosvg
+cairocffi
+Pillow
+aiohttp
+oauth2client
